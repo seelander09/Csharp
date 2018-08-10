@@ -1,0 +1,11 @@
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\Restaurant\bin\Debug\netcoreapp2.0\Restaurant.deps.json
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\Restaurant\bin\Debug\netcoreapp2.0\Restaurant.runtimeconfig.json
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\Restaurant\bin\Debug\netcoreapp2.0\Restaurant.runtimeconfig.dev.json
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\Restaurant\bin\Debug\netcoreapp2.0\Restaurant.dll
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\Restaurant\bin\Debug\netcoreapp2.0\Restaurant.pdb
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\Restaurant\obj\Debug\netcoreapp2.0\Restaurant.csprojAssemblyReference.cache
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\Restaurant\obj\Debug\netcoreapp2.0\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\Restaurant\obj\Debug\netcoreapp2.0\Restaurant.AssemblyInfoInputs.cache
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\Restaurant\obj\Debug\netcoreapp2.0\Restaurant.AssemblyInfo.cs
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\Restaurant\obj\Debug\netcoreapp2.0\Restaurant.dll
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\Restaurant\obj\Debug\netcoreapp2.0\Restaurant.pdb
