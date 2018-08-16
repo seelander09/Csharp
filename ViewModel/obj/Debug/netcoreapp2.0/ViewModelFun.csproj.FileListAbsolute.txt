@@ -1,0 +1,11 @@
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\ViewModelFun\bin\Debug\netcoreapp2.0\ViewModelFun.deps.json
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\ViewModelFun\bin\Debug\netcoreapp2.0\ViewModelFun.runtimeconfig.json
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\ViewModelFun\bin\Debug\netcoreapp2.0\ViewModelFun.runtimeconfig.dev.json
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\ViewModelFun\bin\Debug\netcoreapp2.0\ViewModelFun.dll
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\ViewModelFun\bin\Debug\netcoreapp2.0\ViewModelFun.pdb
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.csprojAssemblyReference.cache
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.AssemblyInfoInputs.cache
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.AssemblyInfo.cs
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.dll
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.pdb
