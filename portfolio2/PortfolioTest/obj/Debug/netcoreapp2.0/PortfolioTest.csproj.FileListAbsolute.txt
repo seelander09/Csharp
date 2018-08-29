@@ -1,0 +1,11 @@
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\portfolio2\PortfolioTest\bin\Debug\netcoreapp2.0\PortfolioTest.deps.json
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\portfolio2\PortfolioTest\bin\Debug\netcoreapp2.0\PortfolioTest.runtimeconfig.json
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\portfolio2\PortfolioTest\bin\Debug\netcoreapp2.0\PortfolioTest.runtimeconfig.dev.json
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\portfolio2\PortfolioTest\bin\Debug\netcoreapp2.0\PortfolioTest.dll
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\portfolio2\PortfolioTest\bin\Debug\netcoreapp2.0\PortfolioTest.pdb
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\portfolio2\PortfolioTest\obj\Debug\netcoreapp2.0\PortfolioTest.csprojAssemblyReference.cache
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\portfolio2\PortfolioTest\obj\Debug\netcoreapp2.0\PortfolioTest.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\portfolio2\PortfolioTest\obj\Debug\netcoreapp2.0\PortfolioTest.AssemblyInfoInputs.cache
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\portfolio2\PortfolioTest\obj\Debug\netcoreapp2.0\PortfolioTest.AssemblyInfo.cs
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\portfolio2\PortfolioTest\obj\Debug\netcoreapp2.0\PortfolioTest.dll
+C:\Users\Chad\Desktop\DojoAssignments\cSharpAssignments\portfolio2\PortfolioTest\obj\Debug\netcoreapp2.0\PortfolioTest.pdb
