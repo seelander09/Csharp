@@ -1,0 +1,11 @@
+C:\Users\Chad\Desktop\C#work\Csharp\consoleProgram\bin\Debug\netcoreapp2.0\consoleProgram.deps.json
+C:\Users\Chad\Desktop\C#work\Csharp\consoleProgram\bin\Debug\netcoreapp2.0\consoleProgram.runtimeconfig.json
+C:\Users\Chad\Desktop\C#work\Csharp\consoleProgram\bin\Debug\netcoreapp2.0\consoleProgram.runtimeconfig.dev.json
+C:\Users\Chad\Desktop\C#work\Csharp\consoleProgram\bin\Debug\netcoreapp2.0\consoleProgram.dll
+C:\Users\Chad\Desktop\C#work\Csharp\consoleProgram\bin\Debug\netcoreapp2.0\consoleProgram.pdb
+C:\Users\Chad\Desktop\C#work\Csharp\consoleProgram\obj\Debug\netcoreapp2.0\consoleProgram.csprojAssemblyReference.cache
+C:\Users\Chad\Desktop\C#work\Csharp\consoleProgram\obj\Debug\netcoreapp2.0\consoleProgram.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\consoleProgram\obj\Debug\netcoreapp2.0\consoleProgram.AssemblyInfoInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\consoleProgram\obj\Debug\netcoreapp2.0\consoleProgram.AssemblyInfo.cs
+C:\Users\Chad\Desktop\C#work\Csharp\consoleProgram\obj\Debug\netcoreapp2.0\consoleProgram.dll
+C:\Users\Chad\Desktop\C#work\Csharp\consoleProgram\obj\Debug\netcoreapp2.0\consoleProgram.pdb
