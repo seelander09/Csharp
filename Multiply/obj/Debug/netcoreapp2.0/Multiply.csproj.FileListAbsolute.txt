@@ -1,0 +1,11 @@
+C:\Users\Chad\Desktop\C#work\Csharp\Multiply\bin\Debug\netcoreapp2.0\Multiply.deps.json
+C:\Users\Chad\Desktop\C#work\Csharp\Multiply\bin\Debug\netcoreapp2.0\Multiply.runtimeconfig.json
+C:\Users\Chad\Desktop\C#work\Csharp\Multiply\bin\Debug\netcoreapp2.0\Multiply.runtimeconfig.dev.json
+C:\Users\Chad\Desktop\C#work\Csharp\Multiply\bin\Debug\netcoreapp2.0\Multiply.dll
+C:\Users\Chad\Desktop\C#work\Csharp\Multiply\bin\Debug\netcoreapp2.0\Multiply.pdb
+C:\Users\Chad\Desktop\C#work\Csharp\Multiply\obj\Debug\netcoreapp2.0\Multiply.csprojAssemblyReference.cache
+C:\Users\Chad\Desktop\C#work\Csharp\Multiply\obj\Debug\netcoreapp2.0\Multiply.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\Multiply\obj\Debug\netcoreapp2.0\Multiply.AssemblyInfoInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\Multiply\obj\Debug\netcoreapp2.0\Multiply.AssemblyInfo.cs
+C:\Users\Chad\Desktop\C#work\Csharp\Multiply\obj\Debug\netcoreapp2.0\Multiply.dll
+C:\Users\Chad\Desktop\C#work\Csharp\Multiply\obj\Debug\netcoreapp2.0\Multiply.pdb
