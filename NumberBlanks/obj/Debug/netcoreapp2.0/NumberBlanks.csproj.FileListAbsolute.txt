@@ -1,0 +1,11 @@
+C:\Users\Chad\Desktop\C#work\Csharp\NumberBlanks\bin\Debug\netcoreapp2.0\NumberBlanks.deps.json
+C:\Users\Chad\Desktop\C#work\Csharp\NumberBlanks\bin\Debug\netcoreapp2.0\NumberBlanks.runtimeconfig.json
+C:\Users\Chad\Desktop\C#work\Csharp\NumberBlanks\bin\Debug\netcoreapp2.0\NumberBlanks.runtimeconfig.dev.json
+C:\Users\Chad\Desktop\C#work\Csharp\NumberBlanks\bin\Debug\netcoreapp2.0\NumberBlanks.dll
+C:\Users\Chad\Desktop\C#work\Csharp\NumberBlanks\bin\Debug\netcoreapp2.0\NumberBlanks.pdb
+C:\Users\Chad\Desktop\C#work\Csharp\NumberBlanks\obj\Debug\netcoreapp2.0\NumberBlanks.csprojAssemblyReference.cache
+C:\Users\Chad\Desktop\C#work\Csharp\NumberBlanks\obj\Debug\netcoreapp2.0\NumberBlanks.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\NumberBlanks\obj\Debug\netcoreapp2.0\NumberBlanks.AssemblyInfoInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\NumberBlanks\obj\Debug\netcoreapp2.0\NumberBlanks.AssemblyInfo.cs
+C:\Users\Chad\Desktop\C#work\Csharp\NumberBlanks\obj\Debug\netcoreapp2.0\NumberBlanks.dll
+C:\Users\Chad\Desktop\C#work\Csharp\NumberBlanks\obj\Debug\netcoreapp2.0\NumberBlanks.pdb
