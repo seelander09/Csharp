@@ -1,0 +1,11 @@
+C:\Users\Chad\Desktop\C#work\Csharp\removeFromString\bin\Debug\netcoreapp2.0\removeFromString.deps.json
+C:\Users\Chad\Desktop\C#work\Csharp\removeFromString\bin\Debug\netcoreapp2.0\removeFromString.runtimeconfig.json
+C:\Users\Chad\Desktop\C#work\Csharp\removeFromString\bin\Debug\netcoreapp2.0\removeFromString.runtimeconfig.dev.json
+C:\Users\Chad\Desktop\C#work\Csharp\removeFromString\bin\Debug\netcoreapp2.0\removeFromString.dll
+C:\Users\Chad\Desktop\C#work\Csharp\removeFromString\bin\Debug\netcoreapp2.0\removeFromString.pdb
+C:\Users\Chad\Desktop\C#work\Csharp\removeFromString\obj\Debug\netcoreapp2.0\removeFromString.csprojAssemblyReference.cache
+C:\Users\Chad\Desktop\C#work\Csharp\removeFromString\obj\Debug\netcoreapp2.0\removeFromString.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\removeFromString\obj\Debug\netcoreapp2.0\removeFromString.AssemblyInfoInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\removeFromString\obj\Debug\netcoreapp2.0\removeFromString.AssemblyInfo.cs
+C:\Users\Chad\Desktop\C#work\Csharp\removeFromString\obj\Debug\netcoreapp2.0\removeFromString.dll
+C:\Users\Chad\Desktop\C#work\Csharp\removeFromString\obj\Debug\netcoreapp2.0\removeFromString.pdb
