@@ -1,0 +1,11 @@
+C:\Users\Chad\Desktop\C#work\Csharp\celsiusToDegrees\bin\Debug\netcoreapp2.0\celsiusToDegrees.deps.json
+C:\Users\Chad\Desktop\C#work\Csharp\celsiusToDegrees\bin\Debug\netcoreapp2.0\celsiusToDegrees.runtimeconfig.json
+C:\Users\Chad\Desktop\C#work\Csharp\celsiusToDegrees\bin\Debug\netcoreapp2.0\celsiusToDegrees.runtimeconfig.dev.json
+C:\Users\Chad\Desktop\C#work\Csharp\celsiusToDegrees\bin\Debug\netcoreapp2.0\celsiusToDegrees.dll
+C:\Users\Chad\Desktop\C#work\Csharp\celsiusToDegrees\bin\Debug\netcoreapp2.0\celsiusToDegrees.pdb
+C:\Users\Chad\Desktop\C#work\Csharp\celsiusToDegrees\obj\Debug\netcoreapp2.0\celsiusToDegrees.csprojAssemblyReference.cache
+C:\Users\Chad\Desktop\C#work\Csharp\celsiusToDegrees\obj\Debug\netcoreapp2.0\celsiusToDegrees.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\celsiusToDegrees\obj\Debug\netcoreapp2.0\celsiusToDegrees.AssemblyInfoInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\celsiusToDegrees\obj\Debug\netcoreapp2.0\celsiusToDegrees.AssemblyInfo.cs
+C:\Users\Chad\Desktop\C#work\Csharp\celsiusToDegrees\obj\Debug\netcoreapp2.0\celsiusToDegrees.dll
+C:\Users\Chad\Desktop\C#work\Csharp\celsiusToDegrees\obj\Debug\netcoreapp2.0\celsiusToDegrees.pdb
