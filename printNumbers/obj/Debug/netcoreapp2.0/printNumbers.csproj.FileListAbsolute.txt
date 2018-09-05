@@ -1,0 +1,11 @@
+C:\Users\Chad\Desktop\C#work\Csharp\printNumbers\bin\Debug\netcoreapp2.0\printNumbers.deps.json
+C:\Users\Chad\Desktop\C#work\Csharp\printNumbers\bin\Debug\netcoreapp2.0\printNumbers.runtimeconfig.json
+C:\Users\Chad\Desktop\C#work\Csharp\printNumbers\bin\Debug\netcoreapp2.0\printNumbers.runtimeconfig.dev.json
+C:\Users\Chad\Desktop\C#work\Csharp\printNumbers\bin\Debug\netcoreapp2.0\printNumbers.dll
+C:\Users\Chad\Desktop\C#work\Csharp\printNumbers\bin\Debug\netcoreapp2.0\printNumbers.pdb
+C:\Users\Chad\Desktop\C#work\Csharp\printNumbers\obj\Debug\netcoreapp2.0\printNumbers.csprojAssemblyReference.cache
+C:\Users\Chad\Desktop\C#work\Csharp\printNumbers\obj\Debug\netcoreapp2.0\printNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\printNumbers\obj\Debug\netcoreapp2.0\printNumbers.AssemblyInfoInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\printNumbers\obj\Debug\netcoreapp2.0\printNumbers.AssemblyInfo.cs
+C:\Users\Chad\Desktop\C#work\Csharp\printNumbers\obj\Debug\netcoreapp2.0\printNumbers.dll
+C:\Users\Chad\Desktop\C#work\Csharp\printNumbers\obj\Debug\netcoreapp2.0\printNumbers.pdb
