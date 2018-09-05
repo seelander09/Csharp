@@ -1,0 +1,11 @@
+C:\Users\Chad\Desktop\C#work\Csharp\lowerCase\bin\Debug\netcoreapp2.0\lowerCase.deps.json
+C:\Users\Chad\Desktop\C#work\Csharp\lowerCase\bin\Debug\netcoreapp2.0\lowerCase.runtimeconfig.json
+C:\Users\Chad\Desktop\C#work\Csharp\lowerCase\bin\Debug\netcoreapp2.0\lowerCase.runtimeconfig.dev.json
+C:\Users\Chad\Desktop\C#work\Csharp\lowerCase\bin\Debug\netcoreapp2.0\lowerCase.dll
+C:\Users\Chad\Desktop\C#work\Csharp\lowerCase\bin\Debug\netcoreapp2.0\lowerCase.pdb
+C:\Users\Chad\Desktop\C#work\Csharp\lowerCase\obj\Debug\netcoreapp2.0\lowerCase.csprojAssemblyReference.cache
+C:\Users\Chad\Desktop\C#work\Csharp\lowerCase\obj\Debug\netcoreapp2.0\lowerCase.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\lowerCase\obj\Debug\netcoreapp2.0\lowerCase.AssemblyInfoInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\lowerCase\obj\Debug\netcoreapp2.0\lowerCase.AssemblyInfo.cs
+C:\Users\Chad\Desktop\C#work\Csharp\lowerCase\obj\Debug\netcoreapp2.0\lowerCase.dll
+C:\Users\Chad\Desktop\C#work\Csharp\lowerCase\obj\Debug\netcoreapp2.0\lowerCase.pdb
