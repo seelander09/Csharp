@@ -1,0 +1,11 @@
+C:\Users\Chad\Desktop\C#work\Csharp\convertNumbers\bin\Debug\netcoreapp2.0\convertNumbers.deps.json
+C:\Users\Chad\Desktop\C#work\Csharp\convertNumbers\bin\Debug\netcoreapp2.0\convertNumbers.runtimeconfig.json
+C:\Users\Chad\Desktop\C#work\Csharp\convertNumbers\bin\Debug\netcoreapp2.0\convertNumbers.runtimeconfig.dev.json
+C:\Users\Chad\Desktop\C#work\Csharp\convertNumbers\bin\Debug\netcoreapp2.0\convertNumbers.dll
+C:\Users\Chad\Desktop\C#work\Csharp\convertNumbers\bin\Debug\netcoreapp2.0\convertNumbers.pdb
+C:\Users\Chad\Desktop\C#work\Csharp\convertNumbers\obj\Debug\netcoreapp2.0\convertNumbers.csprojAssemblyReference.cache
+C:\Users\Chad\Desktop\C#work\Csharp\convertNumbers\obj\Debug\netcoreapp2.0\convertNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\convertNumbers\obj\Debug\netcoreapp2.0\convertNumbers.AssemblyInfoInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\convertNumbers\obj\Debug\netcoreapp2.0\convertNumbers.AssemblyInfo.cs
+C:\Users\Chad\Desktop\C#work\Csharp\convertNumbers\obj\Debug\netcoreapp2.0\convertNumbers.dll
+C:\Users\Chad\Desktop\C#work\Csharp\convertNumbers\obj\Debug\netcoreapp2.0\convertNumbers.pdb
