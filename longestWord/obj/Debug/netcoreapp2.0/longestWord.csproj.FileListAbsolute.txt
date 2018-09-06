@@ -1,0 +1,11 @@
+C:\Users\Chad\Desktop\C#work\Csharp\longestWord\bin\Debug\netcoreapp2.0\longestWord.deps.json
+C:\Users\Chad\Desktop\C#work\Csharp\longestWord\bin\Debug\netcoreapp2.0\longestWord.runtimeconfig.json
+C:\Users\Chad\Desktop\C#work\Csharp\longestWord\bin\Debug\netcoreapp2.0\longestWord.runtimeconfig.dev.json
+C:\Users\Chad\Desktop\C#work\Csharp\longestWord\bin\Debug\netcoreapp2.0\longestWord.dll
+C:\Users\Chad\Desktop\C#work\Csharp\longestWord\bin\Debug\netcoreapp2.0\longestWord.pdb
+C:\Users\Chad\Desktop\C#work\Csharp\longestWord\obj\Debug\netcoreapp2.0\longestWord.csprojAssemblyReference.cache
+C:\Users\Chad\Desktop\C#work\Csharp\longestWord\obj\Debug\netcoreapp2.0\longestWord.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\longestWord\obj\Debug\netcoreapp2.0\longestWord.AssemblyInfoInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\longestWord\obj\Debug\netcoreapp2.0\longestWord.AssemblyInfo.cs
+C:\Users\Chad\Desktop\C#work\Csharp\longestWord\obj\Debug\netcoreapp2.0\longestWord.dll
+C:\Users\Chad\Desktop\C#work\Csharp\longestWord\obj\Debug\netcoreapp2.0\longestWord.pdb
