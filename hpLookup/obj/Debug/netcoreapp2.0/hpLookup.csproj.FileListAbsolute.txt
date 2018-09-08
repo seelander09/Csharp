@@ -1,0 +1,11 @@
+C:\Users\Chad\Desktop\C#work\Csharp\hpLookup\bin\Debug\netcoreapp2.0\hpLookup.deps.json
+C:\Users\Chad\Desktop\C#work\Csharp\hpLookup\bin\Debug\netcoreapp2.0\hpLookup.runtimeconfig.json
+C:\Users\Chad\Desktop\C#work\Csharp\hpLookup\bin\Debug\netcoreapp2.0\hpLookup.runtimeconfig.dev.json
+C:\Users\Chad\Desktop\C#work\Csharp\hpLookup\bin\Debug\netcoreapp2.0\hpLookup.dll
+C:\Users\Chad\Desktop\C#work\Csharp\hpLookup\bin\Debug\netcoreapp2.0\hpLookup.pdb
+C:\Users\Chad\Desktop\C#work\Csharp\hpLookup\obj\Debug\netcoreapp2.0\hpLookup.csprojAssemblyReference.cache
+C:\Users\Chad\Desktop\C#work\Csharp\hpLookup\obj\Debug\netcoreapp2.0\hpLookup.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\hpLookup\obj\Debug\netcoreapp2.0\hpLookup.AssemblyInfoInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\hpLookup\obj\Debug\netcoreapp2.0\hpLookup.AssemblyInfo.cs
+C:\Users\Chad\Desktop\C#work\Csharp\hpLookup\obj\Debug\netcoreapp2.0\hpLookup.dll
+C:\Users\Chad\Desktop\C#work\Csharp\hpLookup\obj\Debug\netcoreapp2.0\hpLookup.pdb
