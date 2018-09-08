@@ -1,0 +1,11 @@
+C:\Users\Chad\Desktop\C#work\Csharp\url\bin\Debug\netcoreapp2.0\url.deps.json
+C:\Users\Chad\Desktop\C#work\Csharp\url\bin\Debug\netcoreapp2.0\url.runtimeconfig.json
+C:\Users\Chad\Desktop\C#work\Csharp\url\bin\Debug\netcoreapp2.0\url.runtimeconfig.dev.json
+C:\Users\Chad\Desktop\C#work\Csharp\url\bin\Debug\netcoreapp2.0\url.dll
+C:\Users\Chad\Desktop\C#work\Csharp\url\bin\Debug\netcoreapp2.0\url.pdb
+C:\Users\Chad\Desktop\C#work\Csharp\url\obj\Debug\netcoreapp2.0\url.csprojAssemblyReference.cache
+C:\Users\Chad\Desktop\C#work\Csharp\url\obj\Debug\netcoreapp2.0\url.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\url\obj\Debug\netcoreapp2.0\url.AssemblyInfoInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\url\obj\Debug\netcoreapp2.0\url.AssemblyInfo.cs
+C:\Users\Chad\Desktop\C#work\Csharp\url\obj\Debug\netcoreapp2.0\url.dll
+C:\Users\Chad\Desktop\C#work\Csharp\url\obj\Debug\netcoreapp2.0\url.pdb
