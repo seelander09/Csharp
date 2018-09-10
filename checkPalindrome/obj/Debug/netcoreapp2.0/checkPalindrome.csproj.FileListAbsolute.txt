@@ -1,0 +1,11 @@
+C:\Users\Chad\Desktop\C#work\Csharp\checkPalindrome\bin\Debug\netcoreapp2.0\checkPalindrome.deps.json
+C:\Users\Chad\Desktop\C#work\Csharp\checkPalindrome\bin\Debug\netcoreapp2.0\checkPalindrome.runtimeconfig.json
+C:\Users\Chad\Desktop\C#work\Csharp\checkPalindrome\bin\Debug\netcoreapp2.0\checkPalindrome.runtimeconfig.dev.json
+C:\Users\Chad\Desktop\C#work\Csharp\checkPalindrome\bin\Debug\netcoreapp2.0\checkPalindrome.dll
+C:\Users\Chad\Desktop\C#work\Csharp\checkPalindrome\bin\Debug\netcoreapp2.0\checkPalindrome.pdb
+C:\Users\Chad\Desktop\C#work\Csharp\checkPalindrome\obj\Debug\netcoreapp2.0\checkPalindrome.csprojAssemblyReference.cache
+C:\Users\Chad\Desktop\C#work\Csharp\checkPalindrome\obj\Debug\netcoreapp2.0\checkPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\checkPalindrome\obj\Debug\netcoreapp2.0\checkPalindrome.AssemblyInfoInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\checkPalindrome\obj\Debug\netcoreapp2.0\checkPalindrome.AssemblyInfo.cs
+C:\Users\Chad\Desktop\C#work\Csharp\checkPalindrome\obj\Debug\netcoreapp2.0\checkPalindrome.dll
+C:\Users\Chad\Desktop\C#work\Csharp\checkPalindrome\obj\Debug\netcoreapp2.0\checkPalindrome.pdb
