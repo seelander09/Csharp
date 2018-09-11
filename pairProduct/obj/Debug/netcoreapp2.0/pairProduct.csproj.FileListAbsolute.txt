@@ -1,0 +1,11 @@
+C:\Users\Chad\Desktop\C#work\Csharp\pairProduct\obj\Debug\netcoreapp2.0\pairProduct.csprojAssemblyReference.cache
+C:\Users\Chad\Desktop\C#work\Csharp\pairProduct\obj\Debug\netcoreapp2.0\pairProduct.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\pairProduct\obj\Debug\netcoreapp2.0\pairProduct.AssemblyInfoInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\pairProduct\obj\Debug\netcoreapp2.0\pairProduct.AssemblyInfo.cs
+C:\Users\Chad\Desktop\C#work\Csharp\pairProduct\bin\Debug\netcoreapp2.0\pairProduct.deps.json
+C:\Users\Chad\Desktop\C#work\Csharp\pairProduct\bin\Debug\netcoreapp2.0\pairProduct.runtimeconfig.json
+C:\Users\Chad\Desktop\C#work\Csharp\pairProduct\bin\Debug\netcoreapp2.0\pairProduct.runtimeconfig.dev.json
+C:\Users\Chad\Desktop\C#work\Csharp\pairProduct\bin\Debug\netcoreapp2.0\pairProduct.dll
+C:\Users\Chad\Desktop\C#work\Csharp\pairProduct\bin\Debug\netcoreapp2.0\pairProduct.pdb
+C:\Users\Chad\Desktop\C#work\Csharp\pairProduct\obj\Debug\netcoreapp2.0\pairProduct.dll
+C:\Users\Chad\Desktop\C#work\Csharp\pairProduct\obj\Debug\netcoreapp2.0\pairProduct.pdb
