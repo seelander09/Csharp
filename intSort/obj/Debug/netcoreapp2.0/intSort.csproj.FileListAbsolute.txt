@@ -1,0 +1,11 @@
+C:\Users\Chad\Desktop\C#work\Csharp\intSort\bin\Debug\netcoreapp2.0\intSort.deps.json
+C:\Users\Chad\Desktop\C#work\Csharp\intSort\bin\Debug\netcoreapp2.0\intSort.runtimeconfig.json
+C:\Users\Chad\Desktop\C#work\Csharp\intSort\bin\Debug\netcoreapp2.0\intSort.runtimeconfig.dev.json
+C:\Users\Chad\Desktop\C#work\Csharp\intSort\bin\Debug\netcoreapp2.0\intSort.dll
+C:\Users\Chad\Desktop\C#work\Csharp\intSort\bin\Debug\netcoreapp2.0\intSort.pdb
+C:\Users\Chad\Desktop\C#work\Csharp\intSort\obj\Debug\netcoreapp2.0\intSort.csprojAssemblyReference.cache
+C:\Users\Chad\Desktop\C#work\Csharp\intSort\obj\Debug\netcoreapp2.0\intSort.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\intSort\obj\Debug\netcoreapp2.0\intSort.AssemblyInfoInputs.cache
+C:\Users\Chad\Desktop\C#work\Csharp\intSort\obj\Debug\netcoreapp2.0\intSort.AssemblyInfo.cs
+C:\Users\Chad\Desktop\C#work\Csharp\intSort\obj\Debug\netcoreapp2.0\intSort.dll
+C:\Users\Chad\Desktop\C#work\Csharp\intSort\obj\Debug\netcoreapp2.0\intSort.pdb
